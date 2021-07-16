@@ -121,3 +121,17 @@
   margin-top: 20px;
   cursor: pointer;
 }
+
+/* 404 page */
+.not-found h2 {
+  margin-bottom: 20px;
+}
+
+.not-found p {
+  margin-bottom: 10px;
+}
+
+.not-found a {
+  text-decoration: none;
+  color: #f1356d;
+}
